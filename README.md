@@ -25,8 +25,8 @@ I am a Passionate Full Stack Developer with expertise in React, Django, and Lara
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,php,laravel,mysql,mongodb,git" height="45"/>
-  <img src="https://skillicons.dev/icons?i=rest,vs-code,render,vercel,netlify" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,php,laravel,mysql,mongodb,git,vercel,netlify" height="45"/>
+  
 </p>
 
 <p align="center">
