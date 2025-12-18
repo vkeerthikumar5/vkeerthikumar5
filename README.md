@@ -1,8 +1,8 @@
 # Hi 👋 I'm Keerthi Kumar V
 
 <p align="center">
-  <a href="https://www.google.com/maps/place/Bangalore"><img src="https://img.shields.io/badge/📍-Bangalore-4B3621?style=for-the-badge&logo=google-maps" /></a>
-  <a href="mailto:vkeerthikumar5@gmail.com"><img src="https://img.shields.io/badge/✉️-Email-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.google.com/maps/place/Bangalore"><img src="https://img.shields.io/badge/Bangalore-4B3621?style=for-the-badge&logo=google-maps" /></a>
+  <a href="mailto:vkeerthikumar5@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://vkeerthikumar.web.app"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=google-chrome" /></a>
 </p>
 
@@ -11,7 +11,7 @@
 ## 📝 About Me
 
 <p align="center">
-I am a **passionate Full Stack Developer** with expertise in **React, Django, and Laravel**.  
+I am a Passionate Full Stack Developer with expertise in React, Django, and Laravel.  
 </p>
 
 - 💻 Build **responsive, modern, and user-friendly web applications**  
