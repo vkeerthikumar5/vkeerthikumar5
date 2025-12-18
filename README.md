@@ -1,35 +1,24 @@
 # Hi 👋 I'm Keerthi Kumar V
 
-📍 Bangalore | 📧 vkeerthikumar5@gmail.com | 📱 9566778342  
-🌐 [Portfolio](https://vkeerthikumar.web.app) | [GitHub](https://github.com/vkeerthikumar)
+<p align="center">
+  <a href="https://www.google.com/maps/place/Bangalore"><img src="https://img.shields.io/badge/📍-Bangalore-blue?style=for-the-badge&logo=google-maps" /></a>
+  <a href="mailto:vkeerthikumar5@gmail.com"><img src="https://img.shields.io/badge/✉️-Email-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/vkeerthikumar"><img src="https://img.shields.io/badge/GitHub-vkeerthikumar-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://vkeerthikumar.web.app"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome" /></a>
+</p>
 
 ---
 
-## 📝 Profile Summary
-Passionate and detail-oriented **Full Stack Developer** skilled in **React, Django, and Laravel**, with hands-on experience in building responsive and user-friendly web applications.  
-Strong understanding of **RESTful APIs, database integration**, and modern UI design principles. Eager to apply technical skills and contribute effectively to real-world software projects.
+## 📝 About Me
+Passionate and detail-oriented **Full Stack Developer** skilled in **React, Django, and Laravel**.  
+I build **responsive and user-friendly web applications** with a strong understanding of **RESTful APIs, database integration**, and modern UI design principles.  
+Always eager to **learn new technologies** and contribute effectively to real-world software solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,php,laravel,mysql,mongodb,git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=rest,vs-code,render,vercel,netlify" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,php,laravel,mysql,mongodb,git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=rest,vs-code,render,vercel,netlify" height="45"/>
 </p>
-
----
-
-## 📈 GitHub Stats & Profile Views
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkeerthikumar&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://komarev.com/ghpvc/?username=vkeerthikumar&color=blue" height="30"/>
-</p>
-
----
-
-## 📫 Connect with me
-- Email: vkeerthikumar5@gmail.com  
-- Portfolio: [vkeerthikumar.web.app](https://vkeerthikumar.web.app)  
-- GitHub: [github.com/vkeerthikumar](https://github.com/vkeerthikumar)
