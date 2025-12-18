@@ -24,6 +24,8 @@ Always eager to **learn new technologies** and contribute effectively to real-wo
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,php,laravel,mysql,mongodb,git" height="45"/>
   <img src="https://skillicons.dev/icons?i=rest,vs-code,render,vercel,netlify" height="45"/>
 </p>
+
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=vkeerthikumar&color=blue)
+  <img src="https://github-readme-stats.vercel.app/api?username=vkeerthikumar&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=vkeerthikumar&color=blue" height="30"/>
 </p>
